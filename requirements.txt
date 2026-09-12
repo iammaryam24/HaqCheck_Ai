@@ -4,7 +4,10 @@ groq
 ddgs
 requests
 beautifulsoup4
-opencv-python-headless
-numpy
+trafilatura
+
+# Optional — only needed for the Image (OCR) mode
 pytesseract
+opencv-python
+numpy
 Pillow
